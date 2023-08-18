@@ -21,11 +21,14 @@ This is a text editor that can be used on your web browser, or that can be downl
 
 ## Resources 
 
-Github Repository: 
+Github Repository: https://github.com/deegeedubs/text-editor-PWA
 
-Deployed Website on Heroku:  
+Deployed Website on Heroku: https://jate-deegeedubs-3ef425485e61.herokuapp.com/
 
 Picture of Deployed Site: 
+
+![Screenshot 2023-08-17 at 9 52 20 PM](https://github.com/deegeedubs/text-editor-PWA/assets/128939200/c49341f3-1d65-4437-ab8d-2d9b29167361)
+
 
 
 ## Summary 
